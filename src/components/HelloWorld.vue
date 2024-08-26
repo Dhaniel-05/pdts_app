@@ -16,8 +16,8 @@
         <br />
         <v-text-field v-model="name"></v-text-field>
         <v-btn color="primary" elevation="4" raised x-large @click="saludar">
-          Saludar</v-btn
-        >
+          Saludar
+        </v-btn>
       </v-col>
     </v-row>
   </v-container>
